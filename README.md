@@ -45,3 +45,7 @@ Wil je de volledige build of alle assets zien? Neem gerust contact op.
 ![Shooting in tunnels (open the tunnel by shooting the entrance)](Screenshots/tunnelShoot.jpg) 
 ![Lose conditions](Screenshots/dead.jpg)  
 ![Win conditions](Screenshots/winConditions.jpg) 
+
+
+## Speelbare versie
+[Download de build via GitHub Releases](https://github.com/BjornElsing/KrabGame/releases)
