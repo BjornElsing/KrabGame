@@ -30,7 +30,7 @@ Wil je de volledige build of alle assets zien? Neem gerust contact op.
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ![Main menu](Screenshots/mainMenu.jpg) 
 ![Load a game](Screenshots/loadGame.jpg)  
