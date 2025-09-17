@@ -49,12 +49,13 @@ Wil je de volledige build of alle assets zien? Neem gerust contact op.
 
 ---
 
-## Speelbare versie
-[Download de build via GitHub Releases](https://github.com/BjornElsing/KrabGame/releases)
+## Documentatie
+[Download de documentatie (docx)](Docs/KrabGame.docx)
+
+[Download de documentatie (docx)](Docs/KrabGame2.docx)
 
 
 ---
 
-## Documentatie
-[Download de documentatie (docx)](Docs/KrabGame.docx)
-[Download de documentatie (docx)](Docs/KrabGame2.docx)
+## Speelbare versie
+[Download de build via GitHub Releases](https://github.com/BjornElsing/KrabGame/releases)
